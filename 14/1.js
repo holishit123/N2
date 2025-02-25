@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Red Light Districtː MILF Daughter NTR",
-    theme: `img/14/Red Light Districtː MILF Daughter NTR/1/5.jpg`,
+    name: "Fugou Ichizoku no Muko ~ Tsuma Igai Zenin Ore no Onna 1-6",
+    theme: `img/14/Fugou Ichizoku no Muko ~ Tsuma Igai Zenin Ore no Onna/1/0.jpg`,
   };
 
   const container = document.createElement("div");

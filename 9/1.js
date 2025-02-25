@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Netorare Hitozuma - 1",
-    theme: `img/9/Netorare Hitozuma/1/1.jpg`,
+    name: "Hachishaku Hachiwa Keraku Meguri - 1-8",
+    theme: `img/9/Hachishaku Hachiwa Keraku Meguri/1/3.jpg`,
   };
 
   const container = document.createElement("div");

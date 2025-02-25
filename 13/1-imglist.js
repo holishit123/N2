@@ -1,8 +1,8 @@
 //img
 (function () {
-  const baseUrl = `../img/13/Netorare Ochi Masuda Yukari Hen/`;
+  const baseUrl = `../img/13/Haha Banare - They cuckold my mother/1/`;
   const imgList = [];
-  for (let i = 1; i <= 42; i++) {
+  for (let i = 1; i <= 43; i++) {
     imgList.push(`${baseUrl}${i}.jpg`);
   }
 

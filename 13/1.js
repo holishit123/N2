@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Netorare Ochi Masuda Yukari Hen",
-    theme: `img/13/Netorare Ochi Masuda Yukari Hen/3.jpg`,
+    name: "Haha Banare - They cuckold my mother - 1",
+    theme: `img/13/Haha Banare - They cuckold my mother/1/2.jpg`,
   };
 
   const container = document.createElement("div");

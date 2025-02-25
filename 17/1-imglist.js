@@ -1,8 +1,8 @@
 //img
 (function () {
-  const baseUrl = `../img/17/Shin Cậu Bé Bút Chì/`;
+  const baseUrl = `../img/17/Vợ Cấp Dưới Của Tôi/`;
   const imgList = [];
-  for (let i = 1; i <= 28; i++) {
+  for (let i = 0; i <= 66; i++) {
     imgList.push(`${baseUrl}${i}.jpg`);
   }
 

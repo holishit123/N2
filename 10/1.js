@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Kocchi No Chinpo No Hou Ga Kimochi Yokatta Dake Nano",
-    theme: `img/10/Kocchi No Chinpo No Hou Ga Kimochi Yokatta Dake Nano/1.jpg`,
+    name: "Có Thai Nhưng Tử Cung Tôi Vẫn Đầy Ứ",
+    theme: `img/10/Có Thai Nhưng Tử Cung Tôi Vẫn Đầy Ứ/1/2.jpg`,
   };
 
   const container = document.createElement("div");

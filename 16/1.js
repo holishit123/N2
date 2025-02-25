@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "My Ex-Lovers Kid Is My Sons Friend",
-    theme: `img/16/My Ex-Lovers Kid Is My Sons Friend/1/4.jpg`,
+    name: "If My Wife Cheats On Me",
+    theme: `img/16/If My Wife Cheats On Me/1/4.jpg`,
   };
 
   const container = document.createElement("div");

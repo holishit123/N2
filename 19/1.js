@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "How To Make A Family Using Hypnosis App",
-    theme: `img/19/How To Make A Family Using Hypnosis App/3.jpg`,
+    name: "Sugar Mommy Shiori",
+    theme: `img/19/Sugar Mommy Shiori/0.jpg`,
   };
 
   const container = document.createElement("div");

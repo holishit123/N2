@@ -1,8 +1,8 @@
 //img
 (function () {
-  const baseUrl = `../img/20/The Virgin Tutor And The Wealthy Whore/`;
+  const baseUrl = `../img/20/C101 Kaijoubon Seisou Pink no/`;
   const imgList = [];
-  for (let i = 1; i <= 82; i++) {
+  for (let i = 1; i <= 17; i++) {
     imgList.push(`${baseUrl}${i}.jpg`);
   }
 

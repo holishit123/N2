@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Quây Quần Bên Mẹ Thằng Bạn",
-    theme: `img/12/Quây Quần Bên Mẹ Thằng Bạn/1/1.jpg`,
+    name: "The Good Wife",
+    theme: `img/12/The Good Wife/1.jpg`,
   };
 
   const container = document.createElement("div");

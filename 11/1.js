@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Toutou To Dakudaku - 0-8",
-    theme: `img/11/Toutou To Dakudaku/1/3.jpg`,
+    name: "Gekiyasu Fuuzoku de Ooatari Hiita - 1",
+    theme: `img/11/Gekiyasu Fuuzoku de Ooatari Hiita/1/2.jpg`,
   };
 
   const container = document.createElement("div");

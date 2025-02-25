@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Shin Cậu Bé Bút Chì",
-    theme: `img/17/Shin Cậu Bé Bút Chì/1.jpg`,
+    name: "Vợ Cấp Dưới Của Tôi",
+    theme: `img/17/Vợ Cấp Dưới Của Tôi/3.jpg`,
   };
 
   const container = document.createElement("div");

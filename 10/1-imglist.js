@@ -1,9 +1,20 @@
 //img
 (function () {
-  const baseUrl = `../img/10/Kocchi No Chinpo No Hou Ga Kimochi Yokatta Dake Nano/`;
+  const baseUrl0 = `../img/10/Có Thai Nhưng Tử Cung Tôi Vẫn Đầy Ứ/0/`;
+  const baseUrl1 = `../img/10/Có Thai Nhưng Tử Cung Tôi Vẫn Đầy Ứ/1/`;
+  const baseUrl2 = `../img/10/Có Thai Nhưng Tử Cung Tôi Vẫn Đầy Ứ/2/`;
+
   const imgList = [];
-  for (let i = 1; i <= 50; i++) {
-    imgList.push(`${baseUrl}${i}.jpg`);
+  for (let i = 0; i <= 21; i++) {
+    imgList.push(`${baseUrl0}${i}.jpg`);
+  }
+
+  for (let i = 0; i <= 22; i++) {
+    imgList.push(`${baseUrl1}${i}.jpg`);
+  }
+
+  for (let i = 0; i <= 21; i++) {
+    imgList.push(`${baseUrl2}${i}.jpg`);
   }
 
   const imgContainer = document.getElementById("list-img");

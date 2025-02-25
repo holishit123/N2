@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "The Virgin Tutor And The Wealthy Whore",
-    theme: `img/20/The Virgin Tutor And The Wealthy Whore/81.jpg`,
+    name: "C101 Kaijoubon Seisou Pink no",
+    theme: `img/20/C101 Kaijoubon Seisou Pink no/1.jpg`,
   };
 
   const container = document.createElement("div");

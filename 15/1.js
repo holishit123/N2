@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "Housewife CHEATERS Schoolgirl",
-    theme: `img/15/Housewife CHEATERS Schoolgirl/001.jpg`,
+    name: "Bộ Sưu Tập Phụ Nữ Dưới Danh Nghĩa Điều Trị Hiếm Muộn",
+    theme: `img/15/Bộ Sưu Tập Phụ Nữ Dưới Danh Nghĩa Điều Trị Hiếm Muộn/01.jpg`,
   };
 
   const container = document.createElement("div");

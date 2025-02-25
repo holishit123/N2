@@ -1,8 +1,8 @@
 // theme
 (function () {
   const theme1 = {
-    name: "I became a a Masochist and Sold out my country at the Hands of this High Class Prostitute",
-    theme: `img/18/I became a a Masochist and Sold out my country at the Hands of this High Class Prostitute/1.jpg`,
+    name: "Kako ni Modotte Akogare no Onee-san o Netottemita",
+    theme: `img/18/Kako ni Modotte Akogare no Onee-san o Netottemita/4.jpg`,
   };
 
   const container = document.createElement("div");

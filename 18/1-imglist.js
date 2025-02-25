@@ -1,8 +1,8 @@
 //img
 (function () {
-  const baseUrl = `../img/18/I became a a Masochist and Sold out my country at the Hands of this High Class Prostitute/`;
+  const baseUrl = `../img/18/Kako ni Modotte Akogare no Onee-san o Netottemita/`;
   const imgList = [];
-  for (let i = 1; i <= 55; i++) {
+  for (let i = 1; i <= 58; i++) {
     imgList.push(`${baseUrl}${i}.jpg`);
   }
 

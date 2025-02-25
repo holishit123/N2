@@ -1,8 +1,8 @@
 //img
 (function () {
-  const baseUrl = `../img/19/How To Make A Family Using Hypnosis App/`;
+  const baseUrl = `../img/19/Sugar Mommy Shiori/`;
   const imgList = [];
-  for (let i = 1; i <= 27; i++) {
+  for (let i = 0; i <= 55; i++) {
     imgList.push(`${baseUrl}${i}.jpg`);
   }
 
